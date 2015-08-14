@@ -1,0 +1,14 @@
+#dvContainer{
+	margin-left: 150px;
+	margin-right: 150px;
+	border: dashed;
+}
+
+#dvContainer > div{
+	width: 15px;
+	height: 15px;
+}
+
+#dvContainer > div.left{
+	float:left;
+}
